@@ -3,7 +3,7 @@ main{
     height: 150px;
     background-color: black;
 }
-p.hello-accio-job{
+.hello-accio-job{
     color: rgb(255,255,255);
     margin-left:32px; 
     padding:10px;
